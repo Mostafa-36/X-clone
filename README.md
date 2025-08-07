@@ -206,7 +206,8 @@ This project is licensed under the **MIT License**.
 ## 👨‍💻 Author
 
 **Mostafa Adly**  
-GitHub: [@your-username]  
-LinkedIn: [@your-linkedin]
+GitHub: [@Mostafa-36](https://github.com/Mostafa-36)  
+LinkedIn: [@mostafa-adly](https://www.linkedin.com/in/mostafa-adly-a10726274/)
+
 
 > ⭐️ Star this project if you like it — it motivates open-source development!
